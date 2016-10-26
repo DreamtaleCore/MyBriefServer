@@ -8,7 +8,7 @@
 
 ###folder structure
 
-Every folder here contains project file and a _webroot_ file, you can change the contain in it, and named the main in port as ``index.html``
+Every folder here contains project file and a _webroot_ folder, you can change the contain in it, and named the main in port as ``index.html``
 
 ###Tips:
 
