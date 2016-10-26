@@ -19,5 +19,5 @@ Every folder here contains project file and a _webroot_ folder, you can change t
 ###Run：
 
 1. ``c++``:    Just run, and use browser open the localhost:port you set
-2. ``java``:   delete the ip in the HttpServer, and open ``localhost:2345/index.html`` in broswer
+2. ``java``:   delete the ip adress in the HttpServer.java, and open ``localhost:2345/index.html`` in broswer
 3. ``python``: just as ``c++``
