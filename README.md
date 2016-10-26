@@ -1,6 +1,6 @@
 #MySelfServer
 * * *
-###file name
+###folder name
 
 1. byCxx_vs
 2. byJava_intellij
