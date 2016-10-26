@@ -1,0 +1,3 @@
+﻿  main.cpp
+g:\ws\programming\vsforweb\winsock\httpserver\httpserver\main.cpp(205): warning C4018: “<”: 有符号/无符号不匹配
+  HttpServer.vcxproj -> G:\ws\Programming\vsForWeb\WinSock\HttpServer\Debug\httpServer.exe
