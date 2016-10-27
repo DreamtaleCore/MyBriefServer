@@ -25,7 +25,7 @@ public class HttpServer {
         ServerSocket serverSocket = null;
         int port = 2345;
         try {
-            serverSocket = new ServerSocket(port, 1, InetAddress.getByName("10.50.141.78"));
+            serverSocket = new ServerSocket(port, 1);
         } catch (IOException e) {
             e.printStackTrace();
             System.exit(1);
