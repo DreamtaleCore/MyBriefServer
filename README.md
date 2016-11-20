@@ -1,8 +1,6 @@
 #MySelfServer
 * * *
 
-[TOC]
-
 ###folder name
 
 1. byCxx_vs
@@ -25,16 +23,3 @@ Every folder here contains project file and a _webroot_ folder, you can change t
 2. ``java``:   delete the ip adress in the HttpServer.java, and open ``localhost:2345/index.html`` in broswer
 3. ``python``: just as ``c++``
 
-
-### Type: 
-
-```flow
-st=>start: Start
-e=>end
-op=>operation: My Operation
-cond=>condition: Yes or No?
-
-st->op->cond
-cond(yes)->e
-cond(no)->op
-```
